@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Advanced Backend Development** and **Cloud Technologies**.
 - 🛠️ I work on **Web Development, Machine Learning, and IoT Projects**.
-- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/kushagra-sachdeva)**
+- 📫 How to reach me: **[LinkedIn]([https://linkedin.com/in/kushagra-sachdeva](https://www.linkedin.com/in/kushagra-sachdeva-32519b238/))**
 
 ---
 
