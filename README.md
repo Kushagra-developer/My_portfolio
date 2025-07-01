@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Developer | 📚 Student at SRM University, Chennai</h3>
 
 <p align="center">
-  <a href="https://Kushagra-sachdeva.xyz" target="_blank">
+  <a href="[https://Kushagra-sachdeva.xyz](https://kushagra-developer.github.io/My_portfolio/)" target="_blank">
     🌐 My Portfolio
   </a>
 </p>
